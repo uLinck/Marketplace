@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "6OVRxzjCyTsXPOEeXvVa+axdQTmWMG/kVgMfpdVWvlNKg6Wtnx7ZzuJ9U3+zCEU6E9Pg7U/2Q5nzmO9bl77B4g==",
+  "dgSpecHash": "+1XFZj+RFRhSH8hPwurggwM0JNU52Hn3KCf3srRINpzjJDkZRSY/f++gpYyzfrjWSwyvNU1KQQCWio2iRYbUBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\BackEnd\\Api\\Api.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Api\\Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",

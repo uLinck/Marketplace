@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "YQPcT1aT4vr2yx6RhIly7xmYxmqxxnTRtDiwZvt/BDf8UVuCklNAe0pb2R21IwwwpU4CXbBtO7SxN131laNt4w==",
+  "dgSpecHash": "b7J6KRm/ytYX5HERx/tjS7HxYz+MVvbJe0fWzYtPHPtjy4bOAP0XPlcWJl4Ffzbdn0zU4f7BmMNsMG5BSC2hWw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\Core.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\gusta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }

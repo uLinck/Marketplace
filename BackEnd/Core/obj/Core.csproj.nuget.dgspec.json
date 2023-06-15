@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\Core.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\Core.csproj": {
+    "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\BackEnd\\Core\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

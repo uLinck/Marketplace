@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "q7aNbeaQ7C+a5g2fpEAoyuIEt0lP8m581rbjjquErdCoJbeqk7UrfUEEJtlhXpa416RShD/NtdE+9L+V6Nuwsw==",
+  "dgSpecHash": "9XEe2PUHHix38hkR666TowZ35LF78XYT6exs8KJ40RFOossIY9qANlZUz9KdSq7MBgYU34j3uYYs8K3eBb08CA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\Desktop\\BackEnd\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\Marketplace\\BackEnd\\Application\\Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\gusta\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
